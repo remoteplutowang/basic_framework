@@ -5,7 +5,7 @@ namespace App\Filter\User;
 
 use App\Filter\Filter;
 
-class NameFilter extends Filter
+class UserNameFilter extends Filter
 {
     public function doFilter()
     {
